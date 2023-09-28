@@ -4,12 +4,12 @@
     font-family: Calibri;
     margin: 0;
     padding: 0;
-    background-color: #8B008B;
+    background-color: #FFF0F5;
   }
 
   /* Add styles for the header */
   header {
-    background-color: #A9A9A9;
+    background-color: #D8BFD8;
     padding: 0.2px;
     font-family: Book Antiqua;
     
@@ -40,12 +40,12 @@
   main {
     padding: 0px;
     text-align: center;
-    background-color: #8B008B
+    background-color: #FFF0F5
   }
 
   /* Add styles for the footer */
   footer {
-    background-color: #A9A9A9;
+    background-color: #D8BFD8;
     padding: 0.1px;
     text-align: center;
     font-family: Arial;
